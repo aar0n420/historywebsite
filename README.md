@@ -4,7 +4,7 @@
   
   <h1>Welcome to History in St. Josephs Rush</h1>
   
-  <ul>
+  <li>
   <li>how we find out about the past</li>
   
   
