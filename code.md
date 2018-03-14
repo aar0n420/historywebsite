@@ -4,7 +4,7 @@
   
  <style> body{
    
-   <background-image:url(http://www.oksports.ie/products-page/ball-sports/irish-flag3/)
+
    
   </
    <Welcome to History in St. Josephs Rush</h1>
