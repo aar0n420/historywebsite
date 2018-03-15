@@ -1,15 +1,15 @@
 <!DOCTYPE HTML>
 
 <html>
-<body style="background-color:LightBlue;">
+<body style="background-color:rgb(0, 255, 100);">
     <head>
-        <style><style>
+    <style></style>
         
         
 <html><head>
 <style>
 body {
-    background-color:MediumSeaGreen;
+    background-color:rgb(0, 255, 100);
 }
 </style>
 </head>
