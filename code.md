@@ -1,15 +1,18 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>
+
 <html>
-  <title>History</title>
-  
- 
-   <h1>Welcome to History in St. Josephs Rush</h1>
-  
-  <ol>
-  <li>how we find out about the past</li>
-  <li>studies of change</li>
-  <li>understanding of the modern world</li>
-  </ol>
-  
-  
-</html>
+<body style="background-color:LightBlue;">
+    <head>
+        <style><style>
+        
+        
+<html><head>
+<style>
+body {
+    background-color:MediumSeaGreen;
+}
+</style>
+</head>
+<body>
+
+<h1>Welcome to History in St. Josephs</h1>
