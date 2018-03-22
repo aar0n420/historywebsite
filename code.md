@@ -18,14 +18,49 @@ body {
 p.inset {border-style: inset;}
 p.outset {border-style: outset;}
 
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+
+}
+
+li a {
+    display: block;
+
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+li a.active {
+
+
+}
+
+li a:hover:not(.active) {
+
+
+}
+
 </style>
 </head>
 <body>
-
+    
+    
 <h1 style="color:Blue;">Welcome to History in St. Josephs</h1>
 
-<h2>In St. Josephs Rush, you will learn about:</h2>
 
+
+<ul>
+  <li><a class="Home" href="#home">Home</a></li>
+  <li><a href="#Juniour Cert">News</a></li>
+  <li><a href="#Subjects">Contact</a></li>
+  <li><a href="#Syllabus">About</a></li>
+</ul>
+
+<h2>In St. Josephs Rush, you will learn about:</h2> 
 
 <p class="inset"><ul>
   <li>Historians and Archaeologists</li>
@@ -43,6 +78,9 @@ p.outset {border-style: outset;}
   <li>Social History in Ireland</li>    
 </ul></p>
 <p class="outset"> </p>
+
+
+
 
 </body>
 </html>
